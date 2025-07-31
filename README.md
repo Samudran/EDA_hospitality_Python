@@ -62,10 +62,7 @@ Help the company **make data-driven decisions** to recover lost revenue by:
 - Performed data cleaning and transformation to ensure consistency and accuracy for analysis.  
 - Generated actionable insights, such as identifying low-performing hotels and seasonal booking trends, to aid decision-making.  
 - Visualized key metrics like occupancy rates and revenue patterns to highlight opportunities for improvement.
-- Most bookings are coming from third-party portals, reducing profit margins.
-- Standard rooms are rarely booked—underutilized asset.
-- Delhi hotel has the lowest occupancy across all categories.
-- Direct booking is least used—marketing opportunities missed.
+- A set of business-relevant questions were answered using Python in the Jupyter Notebook to derive actionable insights.
 
 ---
 
