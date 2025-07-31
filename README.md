@@ -58,14 +58,14 @@ Help the company **make data-driven decisions** to recover lost revenue by:
 
 ## 📌 Key Insights
 
-- Most bookings are coming from third-party portals, reducing profit margins.
-- Presidential rooms are rarely booked—underutilized asset.
-- Hyderabad hotel has the lowest occupancy across all categories.
-- Direct booking is least used—marketing opportunities missed.
 - Imported and explored multi-dimensional data to understand booking patterns and trends.  
 - Performed data cleaning and transformation to ensure consistency and accuracy for analysis.  
 - Generated actionable insights, such as identifying low-performing hotels and seasonal booking trends, to aid decision-making.  
 - Visualized key metrics like occupancy rates and revenue patterns to highlight opportunities for improvement.
+- Most bookings are coming from third-party portals, reducing profit margins.
+- Standard rooms are rarely booked—underutilized asset.
+- Delhi hotel has the lowest occupancy across all categories.
+- Direct booking is least used—marketing opportunities missed.
 
 ---
 
